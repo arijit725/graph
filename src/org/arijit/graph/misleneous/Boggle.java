@@ -1,4 +1,4 @@
-package org.arijit.graph.bfs;
+package org.arijit.graph.misleneous;
 
 import java.util.HashMap;
 
